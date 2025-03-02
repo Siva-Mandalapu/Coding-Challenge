@@ -1,0 +1,2 @@
+Hello devops people welcome to devops world of automation
+Devops is all about automation with automation devops teams makes deployments faster and efficiently
